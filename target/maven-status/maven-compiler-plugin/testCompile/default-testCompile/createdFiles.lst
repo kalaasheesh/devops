@@ -1,5 +1,5 @@
-com\edurekademo\utilities\TestHexAsciiConversion.class
-com\edurekademo\utilities\TestLogger.class
-com\edurekademo\utilities\ExceptionThrower.class
-com\edurekademo\utilities\TestGenericComparator.class
-com\edurekademo\utilities\UnitDTO.class
+com\demo\utilities\TestGenericComparator.class
+com\demo\utilities\TestLogger.class
+com\demo\utilities\TestHexAsciiConversion.class
+com\demo\utilities\UnitDTO.class
+com\demo\utilities\ExceptionThrower.class
