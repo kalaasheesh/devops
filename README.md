@@ -5,7 +5,7 @@ This tutorial teaches you some of the basic concepts in [Vaadin Framework](https
 a fast read for learning how to get started - not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work.
 
-![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
+![Addressbook Screenshot](addressbook.png "Addressbook Screenshot")
 
 
 Running the example from the command line
@@ -26,7 +26,6 @@ To checkout and run the project in Eclipse, do:
 - Check out Maven Projects from SCM
 - Choose Git from SCM menu
   - If you do not see "Git" in the SCM menu, click "Find more SCM connectors in the m2e Marketplace" and install "m2e-egit". Restart Eclipse and start over.
-- Set the repository URL to https://github.com/vaadin/addressbook.git
 - Right click the imported "addressbook" and choose Run As -> Maven Build...
   - Set the goal to "jetty:run" and click "Run"
 
